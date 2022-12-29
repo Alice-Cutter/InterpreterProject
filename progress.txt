@@ -1,0 +1,21 @@
+let* done (unsure if they work or not )
+letrec done (unsure if they work or not)
+set! done make sure we are evaling args
+begin done 
+and done
+or done 
+cond
+
+
+
+primitives:
+- # of args done 
+< # of args
+> # of args
+= # of args
+* # of args done 
+/ # of args 
+modulo # of args
+
+
+unspecified type?
